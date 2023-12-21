@@ -18,3 +18,21 @@
 .nested-links a{
   overflow-wrap: break-word;
 }
+
+svg.foo {
+  font-family: "CaskaydiaCode NF","Consolas","Courier New",Helvetica,Arial,sans-serif
+}
+
+p {
+  font-family: "Calibri","Verdana",Helvetica,Arial,sans-serif
+}
+
+figcaption{
+  font-family: "Calibri","Verdana",Helvetica,Arial,sans-serif;
+  font-size:smaller;
+  text-align: center;
+}
+
+h1{
+  font-family: "Verdana",Helvetica,Arial,sans-serif;
+}
